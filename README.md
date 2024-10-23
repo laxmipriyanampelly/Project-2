@@ -1,1 +1,1 @@
-# Diwali Sales Data Analysis Project using Python
+Diwali Sales Data Analysis Project using Python
